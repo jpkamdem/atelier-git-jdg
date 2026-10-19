@@ -5,3 +5,5 @@
 1 - Après le git commit, mon commit est enregistré en local.
 2- Après le git push , il se trouve dans le dépot en ligne sur gitHub.
 3- Risque de perdre le commit.
+## Stash
+Stock une modifications qui n'est pas commit.
