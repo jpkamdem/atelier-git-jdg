@@ -5,3 +5,9 @@ h1 {
 h2 {
     color: green
 }
+.dark {
+    background-color: black;
+    color : white;
+    
+
+}
