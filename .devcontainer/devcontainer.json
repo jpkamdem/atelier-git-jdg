@@ -9,7 +9,8 @@
       "extensions": [
         "ms-vscode.live-server",
         "mhutchie.git-graph",
-        "GitHub.vscode-pull-request-github"
+        "GitHub.vscode-pull-request-github",
+        "HTMLHint.vscode-htmlhint"
       ]
     }
   },
