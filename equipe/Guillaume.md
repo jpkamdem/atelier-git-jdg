@@ -16,4 +16,4 @@ mon commit est sur ma machine en local
 2. Juste après `git push`, où se trouve-t-il ?
 il se trouve en ligne sur le serveur github 
 3. Que se passe-t-il si je supprime mon Codespace après un commit mais sans push ?
-il est suprimé car il etait uniquements en local et une fois suprimer ça supprime les donné local
+il est suprimé car il etait uniquements en local et une fois suprimer ça supprime les donné localg
