@@ -12,3 +12,6 @@
 - Il est envoyé sur le dépot
 3. Que se passe-t-il si je supprime mon Codespace après un commit mais sans push ?
 - Je suppose qu'il est perdu
+
+## Stash
+- Stocke des changements non commits pour les récupérer plus tard
