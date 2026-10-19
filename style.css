@@ -5,9 +5,16 @@ h1 {
 h2 {
     color: green
 }
+.dark {
+    background-color: black;
+    color : white;
+    
+
+=======
 
 @media (max-width: 600px) {
     h1, h2, h3 {
         font-size: 12px;
     }
+
 }
