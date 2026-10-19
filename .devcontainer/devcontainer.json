@@ -1,0 +1,20 @@
+{
+  "name": "Atelier Git & GitHub",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {
+    "ghcr.io/devcontainers/features/node:1": {}
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode.live-server",
+        "mhutchie.git-graph",
+        "GitHub.vscode-pull-request-github"
+      ]
+    }
+  },
+  "remoteEnv": {
+    "GIT_EDITOR": "code --wait"
+  },
+  "postCreateCommand": "git config --global pull.rebase false && git config --global init.defaultBranch master"
+}
